@@ -1,0 +1,1 @@
+# unity-atlas-packer-library
